@@ -33,3 +33,7 @@ $ node index.js ~/Downloads -tr
 - 因为系统权限限制，部分目录的计算大小可能不准确，可以使用 sudo
 - 仅支持 Mac OS
 - 永远不会进行磁盘/文件系统/文件的写入和改动，请放心食用
+
+# Output Example
+
+![示例图片](https://image-bed-roy.oss-cn-shanghai.aliyuncs.com/image-blog/example.jpg)  

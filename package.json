@@ -1,0 +1,14 @@
+{
+  "name": "node-ll",
+  "version": "0.0.2",
+  "description": "cli ls(ll) command via node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roy Shen",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
